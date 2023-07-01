@@ -1,0 +1,47 @@
+
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}
+
+body {
+    background-color: pink;
+}
+
+.hero-full-width { 
+        background: url(https://i.postimg.cc/MHjzF5K5/1280-x-720-background-pen-b.jpg) no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        height: 600px; 
+        width: 100vw; 
+      
+}
+
+/* #hero-image{
+    height:800px;
+    width: 100vw;
+    background: url("https://i.postimg.cc/MHjzF5K5/1280-x-720-background-pen-b.jpg") no-repeat center center;
+
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+} */
+
+/* #hero-outer{
+    height:600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+} */
+
+/* @keyframes hero-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
+} */
